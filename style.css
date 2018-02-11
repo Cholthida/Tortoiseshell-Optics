@@ -155,8 +155,7 @@ footer img{
 
 @media only screen and (max-width:100%) {
   header{
-    margin-left: 0rem;
-    margin-right: 0rem;
+    margin: auto;
   }
   main{
     width: 100%;
